@@ -1,0 +1,6 @@
+message LSPMessage
+{
+	required uint32 connid=1; 
+	required uint32 seqnum=2;
+	required bytes payload=3;
+}
