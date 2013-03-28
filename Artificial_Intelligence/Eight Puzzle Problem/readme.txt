@@ -1,7 +1,7 @@
 Eight Puzzle Problem: Implementation of BFS, BFSv,DFS, DLS, ID DFS
 Author: Swati Singh
 
-
+njdnjdnejdn
 Table of Statistics:
 The table below lists the mean number of goal tests and maximum number of queue size for each algorithm, averaged over 10 trials for same scrambled state:
 	Goal    Test	Maximum	 Queue Size
