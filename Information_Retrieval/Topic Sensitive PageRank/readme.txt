@@ -5,6 +5,7 @@ Author: Swati Singh
 ==================================================================================================
 Given, a dataset, a medium collection of tweets. json module is required which has been built in Python 2.7 to load data.
 The tweet corpus in json format must be present in the same directory as these python files.
+These programs have been tested on a corpus of about 100000 tweets
 
 TOPICS:
 
