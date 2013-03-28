@@ -2,7 +2,6 @@
 It is a functioning text-based mini search engine which supports both single term queries and phrase queries, as well as wild-card queries. 
 First, I build an inverted index over documents from the data set by tokenizing each document using whitespaces and punctuations as delimiters and then case-folding to build an index. I then build a positional index to support phrase queries. Quotes are used in a query to tell the search engine that this is a phrase query. Do not explicitly type AND in queries and never use OR, NOT or parentheses. Finally, I build a k-gram index to support wild-card queries.
 
-The progarm takes approximately 50 seconds to build all 3 indexes and then asks the user for entering a query for the search engine.
 
 1) To run the program:
    >>python hw1_Swati_Singh.py ./books/books
