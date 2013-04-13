@@ -1,11 +1,9 @@
-Information Storage and Retrieval : Homework 3
-Readme.txt
 
-NAME: Swati Singh
-UIN: 321007275
+Readme.txt
+Author: Swati Singh
+
 
 -----------------------------------------------------------
-The Homework3_321007275 Zip Folder contains:
 
 COLLECTED DATASET:
 1. texasaggies.json
@@ -17,10 +15,6 @@ PROGRAM FILES:
 2. part2.py
 3. part3_cluster.py
 4. part3_classifier.py
-
-PDF REPORT: report.pdf
-
-TEXT README: readme.txt
 
 ----------------------------------------------------------
 
